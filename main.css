@@ -26,3 +26,6 @@
     text-align:right;
     overflow:auto;
   }
+body{
+   width: 600px; 
+}
