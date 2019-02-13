@@ -16,7 +16,8 @@ input{
 }
 
 header {
-  float: center;
+   position: relative;
+  width: 400px;
 }
   #disp{
     display:block;
