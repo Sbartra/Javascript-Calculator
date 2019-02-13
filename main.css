@@ -1,8 +1,9 @@
 .calc{
     position:absolute;
     background-color: brown;
-    width:300px;
+    width: 60%;
     height:350px;
+    
   }
   #disp{
     display:block;
